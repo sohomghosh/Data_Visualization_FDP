@@ -22,4 +22,5 @@ https://www.kaggle.com/santhraul/bank-loan-exploratory-data-analysis/notebook <b
 https://www.kaggle.com/ab9bhatia/complete-eda-for-loan-analysis/notebook <br>
 https://matplotlib.org/2.0.2/mpl_toolkits/mplot3d/tutorial.html <br>
 https://towardsdatascience.com/geographical-plotting-of-maps-with-plotly-4b5a5c95f02a <br>
-https://towardsdatascience.com/explainable-ai-xai-with-shap-regression-problem-b2d63fdca670
+https://towardsdatascience.com/explainable-ai-xai-with-shap-regression-problem-b2d63fdca670 <br>
+https://github.com/slundberg/shap
