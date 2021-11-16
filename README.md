@@ -23,6 +23,12 @@ Case Study-2: all-data.csv https://www.kaggle.com/ankurzing/sentiment-analysis-f
 **SHAP:**
 *   https://github.com/slundberg/shap
 
+**Word Cloud:**
+*   http://amueller.github.io/word_cloud/
+
+**Spacy Visualizers:**
+*   https://spacy.io/usage/visualizers
+
 # Other References
 https://www.kaggle.com/santhraul/bank-loan-exploratory-data-analysis/notebook <br>
 https://www.kaggle.com/ab9bhatia/complete-eda-for-loan-analysis/notebook <br>
