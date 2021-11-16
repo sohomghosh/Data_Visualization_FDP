@@ -20,3 +20,4 @@ Case Study-2: https://sites.google.com/nlg.csie.ntu.edu.tw/finnum/data
 # Other References
 https://www.kaggle.com/santhraul/bank-loan-exploratory-data-analysis/notebook <br>
 https://www.kaggle.com/ab9bhatia/complete-eda-for-loan-analysis/notebook
+https://matplotlib.org/2.0.2/mpl_toolkits/mplot3d/tutorial.html
