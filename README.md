@@ -1,4 +1,4 @@
-# Dataset
+# Datasets
 Links to download the original datasets: <br>
 Case Study-1: https://www.kaggle.com/burak3ergun/loan-data-set/version/1 <br>
 Case Study-2: https://sites.google.com/nlg.csie.ntu.edu.tw/finnum/data
