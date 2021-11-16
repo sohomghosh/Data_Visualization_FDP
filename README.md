@@ -17,6 +17,12 @@ Case Study-2: https://sites.google.com/nlg.csie.ntu.edu.tw/finnum/data (FinNum_d
 *   https://seaborn.pydata.org/tutorial.html
 *   https://seaborn.pydata.org/examples/index.html
 
+**Plotly:**
+*   https://plotly.com/
+
+**SHAP:**
+*   https://github.com/slundberg/shap
+
 # Other References
 https://www.kaggle.com/santhraul/bank-loan-exploratory-data-analysis/notebook <br>
 https://www.kaggle.com/ab9bhatia/complete-eda-for-loan-analysis/notebook <br>
