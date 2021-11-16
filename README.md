@@ -18,5 +18,5 @@ Case Study-2: https://sites.google.com/nlg.csie.ntu.edu.tw/finnum/data
 *   https://seaborn.pydata.org/examples/index.html
 
 # Other References
-https://www.kaggle.com/santhraul/bank-loan-exploratory-data-analysis/notebook
+https://www.kaggle.com/santhraul/bank-loan-exploratory-data-analysis/notebook <br>
 https://www.kaggle.com/ab9bhatia/complete-eda-for-loan-analysis/notebook
