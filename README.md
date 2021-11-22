@@ -29,6 +29,9 @@ Case Study-2: all-data.csv https://www.kaggle.com/ankurzing/sentiment-analysis-f
 **Spacy Visualizers:**
 *   https://spacy.io/usage/visualizers
 
+**Scikit-learn:**
+*   https://scikit-learn.org/stable/
+
 # Other References
 https://www.kaggle.com/santhraul/bank-loan-exploratory-data-analysis/notebook <br>
 https://www.kaggle.com/ab9bhatia/complete-eda-for-loan-analysis/notebook <br>
