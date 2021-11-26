@@ -1,3 +1,8 @@
+I shall be delivering a talk at the Faculty Development Programme being organized by XIM, University, India.
+![alt text](https://github.com/sohomghosh/Data_Visualization_FDP/raw/main/FDP%20on%20DSA%20Speakers_XIM%20University.png)
+
+Here are the materials from my talk.
+
 # Datasets
 Links to download the original datasets: <br>
 Case Study-1: loan_data_set.csv https://www.kaggle.com/burak3ergun/loan-data-set/version/1 <br>
