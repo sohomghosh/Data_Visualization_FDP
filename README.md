@@ -1,12 +1,21 @@
-I shall be delivering a talk at the Faculty Development Programme being organized by XIM, University, India.
+I delivered a talk at the Faculty Development Programme being organized by XIM, University, India.
 ![alt text](https://github.com/sohomghosh/Data_Visualization_FDP/raw/main/FDP%20on%20DSA%20Speakers_XIM%20University.png)
 
-Here are the materials from my talk.
+## Here are the materials from my talk.
+
+# Slides 
+[Link to download the slides](https://github.com/sohomghosh/Data_Visualization_FDP/blob/main/Data%20Analytics%20and%20Visualisation%20%40%20HIT%2C%20Haldia.pdf)
+
 
 # Datasets
 Links to download the original datasets: <br>
 Case Study-1: loan_data_set.csv https://www.kaggle.com/burak3ergun/loan-data-set/version/1 <br>
 Case Study-2: all-data.csv https://www.kaggle.com/ankurzing/sentiment-analysis-for-financial-news
+
+# Codes
+Case Study-1: https://github.com/sohomghosh/Data_Visualization_FDP/blob/main/CaseStudy_1_DataVisualization.ipynb <br>
+Case Study-2: https://github.com/sohomghosh/Data_Visualization_FDP/blob/main/CaseStudy_2_DataVisualization.ipynb <br>
+Bonus: Time Series Forecasting using Gradio https://github.com/sohomghosh/Data_Visualization_FDP/blob/main/gradio_time_series_forecasting.py
 
 # Documentations
 
@@ -36,6 +45,9 @@ Case Study-2: all-data.csv https://www.kaggle.com/ankurzing/sentiment-analysis-f
 
 **Scikit-learn:**
 *   https://scikit-learn.org/stable/
+
+**Gradio**
+*   https://gradio.app/docs/
 
 # Other References
 https://www.kaggle.com/santhraul/bank-loan-exploratory-data-analysis/notebook <br>
