@@ -1,4 +1,4 @@
-I delivered a talk at the Faculty Development Programme being organized by XIM, University, India.
+I delivered a talk at the Faculty Development Programme being organized by XIM, University, India and refresher programme being organized by Haldia Institute of Techonology, India.
 ![alt text](https://github.com/sohomghosh/Data_Visualization_FDP/raw/main/FDP%20on%20DSA%20Speakers_XIM%20University.png)
 
 ## Here are the materials from my talk.
